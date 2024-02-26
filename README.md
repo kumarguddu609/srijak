@@ -35,6 +35,8 @@ This repository contains the frontend codebase for the SRIJAK Design Agency webs
 - CSS should be organized using a modular approach.
 - JavaScript functionalities should enhance user experience without compromising performance.
 - Use version control (preferably Git) and create feature branches for each task.
+- In the frontend folder: use index.html, style.css, script.js to develop the web-page
+- Use CSS selectors and variables
 
 ## Technologies Used
 

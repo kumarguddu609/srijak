@@ -1,0 +1,41 @@
+/* Reset margins and paddings */
+:root {
+  --margin: 0;
+  --padding: 0;
+}
+
+* {
+  margin: var(--margin);
+  padding: var(--padding);
+}
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.hero-section {
+  /* Hero section styles */
+}
+
+/* Services Section */
+.services-section {
+  /* Services section styles */
+}
+
+/* Our Works Section */
+.works-section {
+  /* Our works section styles */
+}
+
+/* Contact Section */
+.contact-section {
+  /* Contact section styles */
+}
+
+/* Footer Section */
+.footer-section {
+  /* Footer section styles */
+}
