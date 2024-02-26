@@ -14,7 +14,7 @@ This repository contains the frontend codebase for the SRIJAK Design Agency webs
 
 ### Images
 
-- [UI Design - Homepage](link_to_homepage_ui_image)
+- [UI Design - Homepage](https://www.figma.com/proto/InnR3derHgmKlu31pblJvq/Untitled?page-id=0%3A1&type=design&node-id=1-40&viewport=378%2C211%2C0.16&t=FnCbQmCke3j4Q3SH-1&scaling=min-zoom&starting-point-node-id=1%3A40&mode=design)
 - [UI Design - Portfolio Page](link_to_portfolio_ui_image)
 - [UI Design - Services Page](link_to_services_ui_image)
 - [UI Design - Contact Page](link_to_contact_ui_image)
@@ -50,9 +50,9 @@ This repository contains the frontend codebase for the SRIJAK Design Agency webs
 
 ## Team
 
-- Project Manager: [Your Name](link_to_profile)
-- Frontend Developer: [Developer 1](link_to_profile), [Developer 2](link_to_profile), ...
-- UX/UI Designer: [Designer Name](link_to_profile)
+- Project Manager: [Guddu Kumar](link_to_profile)
+<!-- - Frontend Developer: [Developer 1](link_to_profile), [Developer 2](link_to_profile), ...
+- UX/UI Designer: [Designer Name](link_to_profile) -->
 
 ## License
 
