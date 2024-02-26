@@ -8,6 +8,7 @@ This repository contains the frontend codebase for the SRIJAK Design Agency webs
 
 - **Portfolio Showcase:** Display our latest projects and highlight our expertise.
 - **Services Section:** Describe the services we offer in detail.
+- **Work Showcase:** Display our latest works and highlight our expertise.
 - **Contact Form:** Allow users to contact us directly for inquiries and collaborations.
 
 ## UI/UX Design
